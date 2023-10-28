@@ -1,0 +1,17 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #e3edff;
+}
+
+#projects {
+	background-color: #e3edff;
+}
+
+.row a {
+	color: #101010;
+	padding: 5px;
+}
+
+.row a::hover {
+	color: #184088;
+}
